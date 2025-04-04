@@ -16,7 +16,6 @@ A growing collection of everyday formulas, written in TypeScript, to help you me
   - [3. Decision Fatigue Score](#3-decision-fatigue-score)
   - [4. Mood Stability Index](#4-mood-stability-index)
   - [5. Focus Energy Estimator](#5-focus-energy-estimator)
-- [Getting Started](#getting-started)
 - [Future Plans](#future-plans)
 
 ---
